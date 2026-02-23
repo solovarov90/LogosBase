@@ -2,6 +2,7 @@
 type: concept
 status: seed
 tags:
+  - "#продажи"
   - "#маркетинг/B2B"
   - "#ии/генерация"
 source: "SPIN-продажи (Нил Рэкхем)"
